@@ -1,0 +1,109 @@
+budget_month,account_code,account_name,account_type,budget_amount
+2025-01-01,4000,Sales Revenue,Revenue,55125.00
+2025-01-01,5000,Cost of Goods Sold,Expense,24333.75
+2025-01-01,5100,Salaries Expense,Expense,12463.00
+2025-01-01,5200,Rent Expense,Expense,4120.00
+2025-01-01,5300,Marketing Expense,Expense,2678.00
+2025-01-01,5400,Utilities Expense,Expense,1236.00
+2025-01-01,5500,Depreciation Expense,Expense,1030.00
+2025-01-01,5600,Interest Expense,Expense,515.00
+2025-01-01,5700,Tax Expense,Expense,1539.85
+2025-02-01,4000,Sales Revenue,Revenue,57750.00
+2025-02-01,5000,Cost of Goods Sold,Expense,25492.50
+2025-02-01,5100,Salaries Expense,Expense,12566.00
+2025-02-01,5200,Rent Expense,Expense,4120.00
+2025-02-01,5300,Marketing Expense,Expense,2781.00
+2025-02-01,5400,Utilities Expense,Expense,1236.00
+2025-02-01,5500,Depreciation Expense,Expense,1030.00
+2025-02-01,5600,Interest Expense,Expense,515.00
+2025-02-01,5700,Tax Expense,Expense,1781.90
+2025-03-01,4000,Sales Revenue,Revenue,60375.00
+2025-03-01,5000,Cost of Goods Sold,Expense,26651.25
+2025-03-01,5100,Salaries Expense,Expense,12669.00
+2025-03-01,5200,Rent Expense,Expense,4120.00
+2025-03-01,5300,Marketing Expense,Expense,2884.00
+2025-03-01,5400,Utilities Expense,Expense,1236.00
+2025-03-01,5500,Depreciation Expense,Expense,1030.00
+2025-03-01,5600,Interest Expense,Expense,515.00
+2025-03-01,5700,Tax Expense,Expense,2023.95
+2025-04-01,4000,Sales Revenue,Revenue,63000.00
+2025-04-01,5000,Cost of Goods Sold,Expense,27810.00
+2025-04-01,5100,Salaries Expense,Expense,12772.00
+2025-04-01,5200,Rent Expense,Expense,4120.00
+2025-04-01,5300,Marketing Expense,Expense,2987.00
+2025-04-01,5400,Utilities Expense,Expense,1236.00
+2025-04-01,5500,Depreciation Expense,Expense,1030.00
+2025-04-01,5600,Interest Expense,Expense,515.00
+2025-04-01,5700,Tax Expense,Expense,2266.00
+2025-05-01,4000,Sales Revenue,Revenue,65625.00
+2025-05-01,5000,Cost of Goods Sold,Expense,28968.75
+2025-05-01,5100,Salaries Expense,Expense,12875.00
+2025-05-01,5200,Rent Expense,Expense,4120.00
+2025-05-01,5300,Marketing Expense,Expense,3090.00
+2025-05-01,5400,Utilities Expense,Expense,1236.00
+2025-05-01,5500,Depreciation Expense,Expense,1030.00
+2025-05-01,5600,Interest Expense,Expense,515.00
+2025-05-01,5700,Tax Expense,Expense,2508.05
+2025-06-01,4000,Sales Revenue,Revenue,68250.00
+2025-06-01,5000,Cost of Goods Sold,Expense,30127.50
+2025-06-01,5100,Salaries Expense,Expense,12978.00
+2025-06-01,5200,Rent Expense,Expense,4120.00
+2025-06-01,5300,Marketing Expense,Expense,3193.00
+2025-06-01,5400,Utilities Expense,Expense,1236.00
+2025-06-01,5500,Depreciation Expense,Expense,1030.00
+2025-06-01,5600,Interest Expense,Expense,515.00
+2025-06-01,5700,Tax Expense,Expense,2750.10
+2025-07-01,4000,Sales Revenue,Revenue,70875.00
+2025-07-01,5000,Cost of Goods Sold,Expense,31286.25
+2025-07-01,5100,Salaries Expense,Expense,13081.00
+2025-07-01,5200,Rent Expense,Expense,4120.00
+2025-07-01,5300,Marketing Expense,Expense,3296.00
+2025-07-01,5400,Utilities Expense,Expense,1236.00
+2025-07-01,5500,Depreciation Expense,Expense,1030.00
+2025-07-01,5600,Interest Expense,Expense,515.00
+2025-07-01,5700,Tax Expense,Expense,2992.15
+2025-08-01,4000,Sales Revenue,Revenue,73500.00
+2025-08-01,5000,Cost of Goods Sold,Expense,32445.00
+2025-08-01,5100,Salaries Expense,Expense,13184.00
+2025-08-01,5200,Rent Expense,Expense,4120.00
+2025-08-01,5300,Marketing Expense,Expense,3399.00
+2025-08-01,5400,Utilities Expense,Expense,1236.00
+2025-08-01,5500,Depreciation Expense,Expense,1030.00
+2025-08-01,5600,Interest Expense,Expense,515.00
+2025-08-01,5700,Tax Expense,Expense,3234.20
+2025-09-01,4000,Sales Revenue,Revenue,76125.00
+2025-09-01,5000,Cost of Goods Sold,Expense,33603.75
+2025-09-01,5100,Salaries Expense,Expense,13287.00
+2025-09-01,5200,Rent Expense,Expense,4120.00
+2025-09-01,5300,Marketing Expense,Expense,3502.00
+2025-09-01,5400,Utilities Expense,Expense,1236.00
+2025-09-01,5500,Depreciation Expense,Expense,1030.00
+2025-09-01,5600,Interest Expense,Expense,515.00
+2025-09-01,5700,Tax Expense,Expense,3476.25
+2025-10-01,4000,Sales Revenue,Revenue,78750.00
+2025-10-01,5000,Cost of Goods Sold,Expense,34762.50
+2025-10-01,5100,Salaries Expense,Expense,13390.00
+2025-10-01,5200,Rent Expense,Expense,4120.00
+2025-10-01,5300,Marketing Expense,Expense,3605.00
+2025-10-01,5400,Utilities Expense,Expense,1236.00
+2025-10-01,5500,Depreciation Expense,Expense,1030.00
+2025-10-01,5600,Interest Expense,Expense,515.00
+2025-10-01,5700,Tax Expense,Expense,3718.30
+2025-11-01,4000,Sales Revenue,Revenue,81375.00
+2025-11-01,5000,Cost of Goods Sold,Expense,35921.25
+2025-11-01,5100,Salaries Expense,Expense,13493.00
+2025-11-01,5200,Rent Expense,Expense,4120.00
+2025-11-01,5300,Marketing Expense,Expense,3708.00
+2025-11-01,5400,Utilities Expense,Expense,1236.00
+2025-11-01,5500,Depreciation Expense,Expense,1030.00
+2025-11-01,5600,Interest Expense,Expense,515.00
+2025-11-01,5700,Tax Expense,Expense,3960.35
+2025-12-01,4000,Sales Revenue,Revenue,84000.00
+2025-12-01,5000,Cost of Goods Sold,Expense,37080.00
+2025-12-01,5100,Salaries Expense,Expense,13596.00
+2025-12-01,5200,Rent Expense,Expense,4120.00
+2025-12-01,5300,Marketing Expense,Expense,3811.00
+2025-12-01,5400,Utilities Expense,Expense,1236.00
+2025-12-01,5500,Depreciation Expense,Expense,1030.00
+2025-12-01,5600,Interest Expense,Expense,515.00
+2025-12-01,5700,Tax Expense,Expense,4202.40

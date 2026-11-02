@@ -1,0 +1,20 @@
+account_code,account_name,account_type
+1000,Cash,Asset
+1100,Accounts Receivable,Asset
+1200,Inventory,Asset
+1500,Equipment,Asset
+1590,Accumulated Depreciation,Contra Asset
+2000,Accounts Payable,Liability
+2100,Loan Payable,Liability
+2200,Tax Payable,Liability
+3000,Owner Capital,Equity
+3100,Retained Earnings,Equity
+4000,Sales Revenue,Revenue
+5000,Cost of Goods Sold,Expense
+5100,Salaries Expense,Expense
+5200,Rent Expense,Expense
+5300,Marketing Expense,Expense
+5400,Utilities Expense,Expense
+5500,Depreciation Expense,Expense
+5600,Interest Expense,Expense
+5700,Tax Expense,Expense

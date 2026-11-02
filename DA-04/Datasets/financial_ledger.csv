@@ -1,0 +1,286 @@
+journal_entry_id,transaction_date,account_code,account_name,account_type,description,debit,credit
+OPEN001,2025-01-01,1000,Cash,Asset,Opening balances,100000.0,0.0
+OPEN001,2025-01-01,1100,Accounts Receivable,Asset,Opening balances,20000.0,0.0
+OPEN001,2025-01-01,1200,Inventory,Asset,Opening balances,30000.0,0.0
+OPEN001,2025-01-01,1500,Equipment,Asset,Opening balances,80000.0,0.0
+OPEN001,2025-01-01,1590,Accumulated Depreciation,Contra Asset,Opening balances,0.0,10000.0
+OPEN001,2025-01-01,2000,Accounts Payable,Liability,Opening balances,0.0,15000.0
+OPEN001,2025-01-01,2100,Loan Payable,Liability,Opening balances,0.0,50000.0
+OPEN001,2025-01-01,3000,Owner Capital,Equity,Opening balances,0.0,100000.0
+OPEN001,2025-01-01,3100,Retained Earnings,Equity,Opening balances,0.0,55000.0
+SALE001,2025-01-28,1000,Cash,Asset,Monthly sales,42000.0,0.0
+SALE001,2025-01-28,1100,Accounts Receivable,Asset,Monthly sales,10500.0,0.0
+SALE001,2025-01-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,52500.0
+COGS001,2025-01-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,23625.0,0.0
+COGS001,2025-01-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,23625.0
+SAL001,2025-01-28,5100,Salaries Expense,Expense,Monthly salaries,12100.0,0.0
+SAL001,2025-01-28,1000,Cash,Asset,Monthly salaries,0.0,12100.0
+REN001,2025-01-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN001,2025-01-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT001,2025-01-28,5300,Marketing Expense,Expense,Monthly marketing,2600.0,0.0
+MKT001,2025-01-28,1000,Cash,Asset,Monthly marketing,0.0,2600.0
+UTL001,2025-01-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL001,2025-01-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP001,2025-01-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP001,2025-01-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT001,2025-01-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT001,2025-01-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR001,2025-01-28,1200,Inventory,Asset,Monthly inventory purchases,24625.0,0.0
+PUR001,2025-01-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,24625.0
+PAY001,2025-01-28,2000,Accounts Payable,Liability,Monthly supplier payment,20931.25,0.0
+PAY001,2025-01-28,1000,Cash,Asset,Monthly supplier payment,0.0,20931.25
+TAX001,2025-01-28,5700,Tax Expense,Expense,Monthly income tax provision,1495.0,0.0
+TAX001,2025-01-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,1495.0
+SALE002,2025-02-28,1000,Cash,Asset,Monthly sales,44000.0,0.0
+SALE002,2025-02-28,1100,Accounts Receivable,Asset,Monthly sales,11000.0,0.0
+SALE002,2025-02-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,55000.0
+COGS002,2025-02-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,24750.0,0.0
+COGS002,2025-02-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,24750.0
+SAL002,2025-02-28,5100,Salaries Expense,Expense,Monthly salaries,12200.0,0.0
+SAL002,2025-02-28,1000,Cash,Asset,Monthly salaries,0.0,12200.0
+REN002,2025-02-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN002,2025-02-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT002,2025-02-28,5300,Marketing Expense,Expense,Monthly marketing,2700.0,0.0
+MKT002,2025-02-28,1000,Cash,Asset,Monthly marketing,0.0,2700.0
+UTL002,2025-02-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL002,2025-02-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP002,2025-02-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP002,2025-02-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT002,2025-02-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT002,2025-02-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR002,2025-02-28,1200,Inventory,Asset,Monthly inventory purchases,25750.0,0.0
+PUR002,2025-02-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,25750.0
+PAY002,2025-02-28,2000,Accounts Payable,Liability,Monthly supplier payment,21887.5,0.0
+PAY002,2025-02-28,1000,Cash,Asset,Monthly supplier payment,0.0,21887.5
+TAX002,2025-02-28,5700,Tax Expense,Expense,Monthly income tax provision,1730.0,0.0
+TAX002,2025-02-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,1730.0
+SALE003,2025-03-28,1000,Cash,Asset,Monthly sales,46000.0,0.0
+SALE003,2025-03-28,1100,Accounts Receivable,Asset,Monthly sales,11500.0,0.0
+SALE003,2025-03-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,57500.0
+COGS003,2025-03-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,25875.0,0.0
+COGS003,2025-03-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,25875.0
+SAL003,2025-03-28,5100,Salaries Expense,Expense,Monthly salaries,12300.0,0.0
+SAL003,2025-03-28,1000,Cash,Asset,Monthly salaries,0.0,12300.0
+REN003,2025-03-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN003,2025-03-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT003,2025-03-28,5300,Marketing Expense,Expense,Monthly marketing,2800.0,0.0
+MKT003,2025-03-28,1000,Cash,Asset,Monthly marketing,0.0,2800.0
+UTL003,2025-03-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL003,2025-03-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP003,2025-03-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP003,2025-03-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT003,2025-03-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT003,2025-03-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR003,2025-03-28,1200,Inventory,Asset,Monthly inventory purchases,26875.0,0.0
+PUR003,2025-03-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,26875.0
+PAY003,2025-03-28,2000,Accounts Payable,Liability,Monthly supplier payment,22843.75,0.0
+PAY003,2025-03-28,1000,Cash,Asset,Monthly supplier payment,0.0,22843.75
+TAX003,2025-03-28,5700,Tax Expense,Expense,Monthly income tax provision,1965.0,0.0
+TAX003,2025-03-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,1965.0
+SALE004,2025-04-28,1000,Cash,Asset,Monthly sales,48000.0,0.0
+SALE004,2025-04-28,1100,Accounts Receivable,Asset,Monthly sales,12000.0,0.0
+SALE004,2025-04-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,60000.0
+COGS004,2025-04-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,27000.0,0.0
+COGS004,2025-04-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,27000.0
+SAL004,2025-04-28,5100,Salaries Expense,Expense,Monthly salaries,12400.0,0.0
+SAL004,2025-04-28,1000,Cash,Asset,Monthly salaries,0.0,12400.0
+REN004,2025-04-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN004,2025-04-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT004,2025-04-28,5300,Marketing Expense,Expense,Monthly marketing,2900.0,0.0
+MKT004,2025-04-28,1000,Cash,Asset,Monthly marketing,0.0,2900.0
+UTL004,2025-04-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL004,2025-04-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP004,2025-04-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP004,2025-04-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT004,2025-04-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT004,2025-04-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR004,2025-04-28,1200,Inventory,Asset,Monthly inventory purchases,28000.0,0.0
+PUR004,2025-04-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,28000.0
+PAY004,2025-04-28,2000,Accounts Payable,Liability,Monthly supplier payment,23800.0,0.0
+PAY004,2025-04-28,1000,Cash,Asset,Monthly supplier payment,0.0,23800.0
+TAX004,2025-04-28,5700,Tax Expense,Expense,Monthly income tax provision,2200.0,0.0
+TAX004,2025-04-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,2200.0
+SALE005,2025-05-28,1000,Cash,Asset,Monthly sales,50000.0,0.0
+SALE005,2025-05-28,1100,Accounts Receivable,Asset,Monthly sales,12500.0,0.0
+SALE005,2025-05-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,62500.0
+COGS005,2025-05-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,28125.0,0.0
+COGS005,2025-05-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,28125.0
+SAL005,2025-05-28,5100,Salaries Expense,Expense,Monthly salaries,12500.0,0.0
+SAL005,2025-05-28,1000,Cash,Asset,Monthly salaries,0.0,12500.0
+REN005,2025-05-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN005,2025-05-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT005,2025-05-28,5300,Marketing Expense,Expense,Monthly marketing,3000.0,0.0
+MKT005,2025-05-28,1000,Cash,Asset,Monthly marketing,0.0,3000.0
+UTL005,2025-05-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL005,2025-05-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP005,2025-05-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP005,2025-05-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT005,2025-05-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT005,2025-05-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR005,2025-05-28,1200,Inventory,Asset,Monthly inventory purchases,29125.0,0.0
+PUR005,2025-05-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,29125.0
+PAY005,2025-05-28,2000,Accounts Payable,Liability,Monthly supplier payment,24756.25,0.0
+PAY005,2025-05-28,1000,Cash,Asset,Monthly supplier payment,0.0,24756.25
+TAX005,2025-05-28,5700,Tax Expense,Expense,Monthly income tax provision,2435.0,0.0
+TAX005,2025-05-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,2435.0
+SALE006,2025-06-28,1000,Cash,Asset,Monthly sales,52000.0,0.0
+SALE006,2025-06-28,1100,Accounts Receivable,Asset,Monthly sales,13000.0,0.0
+SALE006,2025-06-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,65000.0
+COGS006,2025-06-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,29250.0,0.0
+COGS006,2025-06-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,29250.0
+SAL006,2025-06-28,5100,Salaries Expense,Expense,Monthly salaries,12600.0,0.0
+SAL006,2025-06-28,1000,Cash,Asset,Monthly salaries,0.0,12600.0
+REN006,2025-06-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN006,2025-06-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT006,2025-06-28,5300,Marketing Expense,Expense,Monthly marketing,3100.0,0.0
+MKT006,2025-06-28,1000,Cash,Asset,Monthly marketing,0.0,3100.0
+UTL006,2025-06-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL006,2025-06-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP006,2025-06-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP006,2025-06-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT006,2025-06-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT006,2025-06-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR006,2025-06-28,1200,Inventory,Asset,Monthly inventory purchases,30250.0,0.0
+PUR006,2025-06-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,30250.0
+PAY006,2025-06-28,2000,Accounts Payable,Liability,Monthly supplier payment,25712.5,0.0
+PAY006,2025-06-28,1000,Cash,Asset,Monthly supplier payment,0.0,25712.5
+TAX006,2025-06-28,5700,Tax Expense,Expense,Monthly income tax provision,2670.0,0.0
+TAX006,2025-06-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,2670.0
+SALE007,2025-07-28,1000,Cash,Asset,Monthly sales,54000.0,0.0
+SALE007,2025-07-28,1100,Accounts Receivable,Asset,Monthly sales,13500.0,0.0
+SALE007,2025-07-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,67500.0
+COGS007,2025-07-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,30375.0,0.0
+COGS007,2025-07-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,30375.0
+SAL007,2025-07-28,5100,Salaries Expense,Expense,Monthly salaries,12700.0,0.0
+SAL007,2025-07-28,1000,Cash,Asset,Monthly salaries,0.0,12700.0
+REN007,2025-07-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN007,2025-07-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT007,2025-07-28,5300,Marketing Expense,Expense,Monthly marketing,3200.0,0.0
+MKT007,2025-07-28,1000,Cash,Asset,Monthly marketing,0.0,3200.0
+UTL007,2025-07-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL007,2025-07-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP007,2025-07-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP007,2025-07-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT007,2025-07-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT007,2025-07-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR007,2025-07-28,1200,Inventory,Asset,Monthly inventory purchases,31375.0,0.0
+PUR007,2025-07-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,31375.0
+PAY007,2025-07-28,2000,Accounts Payable,Liability,Monthly supplier payment,26668.75,0.0
+PAY007,2025-07-28,1000,Cash,Asset,Monthly supplier payment,0.0,26668.75
+TAX007,2025-07-28,5700,Tax Expense,Expense,Monthly income tax provision,2905.0,0.0
+TAX007,2025-07-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,2905.0
+SALE008,2025-08-28,1000,Cash,Asset,Monthly sales,56000.0,0.0
+SALE008,2025-08-28,1100,Accounts Receivable,Asset,Monthly sales,14000.0,0.0
+SALE008,2025-08-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,70000.0
+COGS008,2025-08-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,31500.0,0.0
+COGS008,2025-08-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,31500.0
+SAL008,2025-08-28,5100,Salaries Expense,Expense,Monthly salaries,12800.0,0.0
+SAL008,2025-08-28,1000,Cash,Asset,Monthly salaries,0.0,12800.0
+REN008,2025-08-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN008,2025-08-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT008,2025-08-28,5300,Marketing Expense,Expense,Monthly marketing,3300.0,0.0
+MKT008,2025-08-28,1000,Cash,Asset,Monthly marketing,0.0,3300.0
+UTL008,2025-08-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL008,2025-08-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP008,2025-08-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP008,2025-08-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT008,2025-08-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT008,2025-08-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR008,2025-08-28,1200,Inventory,Asset,Monthly inventory purchases,32500.0,0.0
+PUR008,2025-08-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,32500.0
+PAY008,2025-08-28,2000,Accounts Payable,Liability,Monthly supplier payment,27625.0,0.0
+PAY008,2025-08-28,1000,Cash,Asset,Monthly supplier payment,0.0,27625.0
+TAX008,2025-08-28,5700,Tax Expense,Expense,Monthly income tax provision,3140.0,0.0
+TAX008,2025-08-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,3140.0
+SALE009,2025-09-28,1000,Cash,Asset,Monthly sales,58000.0,0.0
+SALE009,2025-09-28,1100,Accounts Receivable,Asset,Monthly sales,14500.0,0.0
+SALE009,2025-09-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,72500.0
+COGS009,2025-09-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,32625.0,0.0
+COGS009,2025-09-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,32625.0
+SAL009,2025-09-28,5100,Salaries Expense,Expense,Monthly salaries,12900.0,0.0
+SAL009,2025-09-28,1000,Cash,Asset,Monthly salaries,0.0,12900.0
+REN009,2025-09-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN009,2025-09-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT009,2025-09-28,5300,Marketing Expense,Expense,Monthly marketing,3400.0,0.0
+MKT009,2025-09-28,1000,Cash,Asset,Monthly marketing,0.0,3400.0
+UTL009,2025-09-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL009,2025-09-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP009,2025-09-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP009,2025-09-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT009,2025-09-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT009,2025-09-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR009,2025-09-28,1200,Inventory,Asset,Monthly inventory purchases,33625.0,0.0
+PUR009,2025-09-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,33625.0
+PAY009,2025-09-28,2000,Accounts Payable,Liability,Monthly supplier payment,28581.25,0.0
+PAY009,2025-09-28,1000,Cash,Asset,Monthly supplier payment,0.0,28581.25
+TAX009,2025-09-28,5700,Tax Expense,Expense,Monthly income tax provision,3375.0,0.0
+TAX009,2025-09-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,3375.0
+SALE010,2025-10-28,1000,Cash,Asset,Monthly sales,60000.0,0.0
+SALE010,2025-10-28,1100,Accounts Receivable,Asset,Monthly sales,15000.0,0.0
+SALE010,2025-10-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,75000.0
+COGS010,2025-10-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,33750.0,0.0
+COGS010,2025-10-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,33750.0
+SAL010,2025-10-28,5100,Salaries Expense,Expense,Monthly salaries,13000.0,0.0
+SAL010,2025-10-28,1000,Cash,Asset,Monthly salaries,0.0,13000.0
+REN010,2025-10-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN010,2025-10-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT010,2025-10-28,5300,Marketing Expense,Expense,Monthly marketing,3500.0,0.0
+MKT010,2025-10-28,1000,Cash,Asset,Monthly marketing,0.0,3500.0
+UTL010,2025-10-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL010,2025-10-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP010,2025-10-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP010,2025-10-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT010,2025-10-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT010,2025-10-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR010,2025-10-28,1200,Inventory,Asset,Monthly inventory purchases,34750.0,0.0
+PUR010,2025-10-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,34750.0
+PAY010,2025-10-28,2000,Accounts Payable,Liability,Monthly supplier payment,29537.5,0.0
+PAY010,2025-10-28,1000,Cash,Asset,Monthly supplier payment,0.0,29537.5
+TAX010,2025-10-28,5700,Tax Expense,Expense,Monthly income tax provision,3610.0,0.0
+TAX010,2025-10-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,3610.0
+SALE011,2025-11-28,1000,Cash,Asset,Monthly sales,62000.0,0.0
+SALE011,2025-11-28,1100,Accounts Receivable,Asset,Monthly sales,15500.0,0.0
+SALE011,2025-11-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,77500.0
+COGS011,2025-11-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,34875.0,0.0
+COGS011,2025-11-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,34875.0
+SAL011,2025-11-28,5100,Salaries Expense,Expense,Monthly salaries,13100.0,0.0
+SAL011,2025-11-28,1000,Cash,Asset,Monthly salaries,0.0,13100.0
+REN011,2025-11-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN011,2025-11-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT011,2025-11-28,5300,Marketing Expense,Expense,Monthly marketing,3600.0,0.0
+MKT011,2025-11-28,1000,Cash,Asset,Monthly marketing,0.0,3600.0
+UTL011,2025-11-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL011,2025-11-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP011,2025-11-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP011,2025-11-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT011,2025-11-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT011,2025-11-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR011,2025-11-28,1200,Inventory,Asset,Monthly inventory purchases,35875.0,0.0
+PUR011,2025-11-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,35875.0
+PAY011,2025-11-28,2000,Accounts Payable,Liability,Monthly supplier payment,30493.75,0.0
+PAY011,2025-11-28,1000,Cash,Asset,Monthly supplier payment,0.0,30493.75
+TAX011,2025-11-28,5700,Tax Expense,Expense,Monthly income tax provision,3845.0,0.0
+TAX011,2025-11-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,3845.0
+SALE012,2025-12-28,1000,Cash,Asset,Monthly sales,64000.0,0.0
+SALE012,2025-12-28,1100,Accounts Receivable,Asset,Monthly sales,16000.0,0.0
+SALE012,2025-12-28,4000,Sales Revenue,Revenue,Monthly sales,0.0,80000.0
+COGS012,2025-12-28,5000,Cost of Goods Sold,Expense,Monthly cost of goods sold,36000.0,0.0
+COGS012,2025-12-28,1200,Inventory,Asset,Monthly cost of goods sold,0.0,36000.0
+SAL012,2025-12-28,5100,Salaries Expense,Expense,Monthly salaries,13200.0,0.0
+SAL012,2025-12-28,1000,Cash,Asset,Monthly salaries,0.0,13200.0
+REN012,2025-12-28,5200,Rent Expense,Expense,Monthly rent,4000.0,0.0
+REN012,2025-12-28,1000,Cash,Asset,Monthly rent,0.0,4000.0
+MKT012,2025-12-28,5300,Marketing Expense,Expense,Monthly marketing,3700.0,0.0
+MKT012,2025-12-28,1000,Cash,Asset,Monthly marketing,0.0,3700.0
+UTL012,2025-12-28,5400,Utilities Expense,Expense,Monthly utilities,1200.0,0.0
+UTL012,2025-12-28,1000,Cash,Asset,Monthly utilities,0.0,1200.0
+DEP012,2025-12-28,5500,Depreciation Expense,Expense,Monthly depreciation,1000.0,0.0
+DEP012,2025-12-28,1590,Accumulated Depreciation,Contra Asset,Monthly depreciation,0.0,1000.0
+INT012,2025-12-28,5600,Interest Expense,Expense,Monthly interest,500.0,0.0
+INT012,2025-12-28,1000,Cash,Asset,Monthly interest,0.0,500.0
+PUR012,2025-12-28,1200,Inventory,Asset,Monthly inventory purchases,37000.0,0.0
+PUR012,2025-12-28,2000,Accounts Payable,Liability,Monthly inventory purchases,0.0,37000.0
+PAY012,2025-12-28,2000,Accounts Payable,Liability,Monthly supplier payment,31450.0,0.0
+PAY012,2025-12-28,1000,Cash,Asset,Monthly supplier payment,0.0,31450.0
+TAX012,2025-12-28,5700,Tax Expense,Expense,Monthly income tax provision,4080.0,0.0
+TAX012,2025-12-28,2200,Tax Payable,Liability,Monthly income tax provision,0.0,4080.0
